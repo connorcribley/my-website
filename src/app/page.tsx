@@ -11,7 +11,7 @@ export default function Home() {
           width={500}
           height={500}
         />
-        <h1 className="font-bold text-7xl">Connor Cribley's Website</h1>
+        <h1 className="font-bold text-7xl">Connor Cribley&apos;s Website</h1>
       </div>
     </div>
   );
